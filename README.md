@@ -74,6 +74,6 @@ Geographic mapping application visualizing road networks and POIs for cities wor
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)]([https://linkedin.com/in/john-boulanger](https://www.linkedin.com/in/john-boulanger-42a706279/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/john-boulanger-42a706279/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:john03yyc@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JohnBoulanger)
