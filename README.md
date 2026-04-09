@@ -1,6 +1,6 @@
 # Hey, I'm John 👋
 
-**AI/ML & Full-Stack Software Engineer · Computer Engineering @ UofT**
+**AI/ML & Full-Stack Software Engineer · Computer Engineering @ The University of Toronto**
 
 New grad with a 3.89 GPA and 16+ months of industry experience across oil & gas platforms and operational data tooling. I like building things end-to-end — from ML pipelines and real-time backends to polished React frontends.
 
