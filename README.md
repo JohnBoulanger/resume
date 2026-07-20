@@ -1,8 +1,8 @@
 # Hey, I'm John 👋
 
-**AI/ML & Full-Stack Software Engineer · Computer Engineering @ The University of Toronto**
+**Full-Stack & AI/ML Software Engineer · Computer Engineering @ The University of Toronto**
 
-New grad with a 3.89 GPA and 16+ months of industry experience across oil & gas platforms and operational data tooling. I like building things end-to-end — from ML pipelines and real-time backends to polished React frontends.
+New grad with a 3.90 GPA and 2+ years of industry experience across oil & gas platforms and operational data tooling. I like building things end-to-end — from ML pipelines and real-time backends to polished React frontends. Canadian citizen, authorized to work in the U.S. under TN status.
 
 [**About me**](#-what-i-do) · [**Projects**](#-featured-projects) · [**Tech Stack**](#-tech-stack)
 
@@ -23,10 +23,12 @@ New grad with a 3.89 GPA and 16+ months of industry experience across oil & gas 
 
 Led development of a drone-based early wildfire detection system with a multi-sensor ML pipeline fusing RGB, IR, and UV camera data with onboard telemetry. Built a React dashboard for live fire event visualization on an interactive map, connected to a cloud-deployed AWS inference pipeline.
 
-### DentaLink — Real-Time Dental Staffing Platform
+### Visus — Real-Time Optometry Staffing Platform
 `React` `TypeScript` `Node.js` `Express` `Prisma` `SQLite` `WebSockets`
 
-Built a full-stack staffing platform connecting dental clinics with temporary professionals. Features two-way interest matching, qualification-based filtering, JWT auth with role-based access for three user types, and real-time hire negotiations via WebSocket chat windows with automatic room management.
+**[🔗 Live Demo](https://visus-production-ceda.up.railway.app/)**
+
+Built a full-stack staffing platform connecting optometry clinics with temporary professionals. Features two-way interest matching, qualification-based filtering, JWT auth with role-based access for three user types, and real-time hire negotiations via WebSocket chat windows with automatic room management.
 
 ### City Mapper — Lead Developer
 `C++` `GTK` `EZGL` `OpenStreetMap API`
@@ -39,6 +41,7 @@ Geographic mapping application visualizing road networks and POIs for cities wor
 
 | Role | Company | Stack | When |
 |------|---------|-------|------|
+| **Software Developer** | Novi Labs (formerly Turing Analytics) | React, Rust, C#, Go | Jul 2026 – Present |
 | **Software Developer Intern** | Turing Analytics Inc. | React, C#, Golang, Rust, REST APIs | May 2024 – Apr 2025 |
 | **Data Engineer Intern** | Teine Energy Ltd. | Python, Databricks, Power BI | May 2023 – Aug 2023 |
 
@@ -52,6 +55,8 @@ Geographic mapping application visualizing road networks and POIs for cities wor
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
 
 **Web & Data**\
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
@@ -77,3 +82,4 @@ Geographic mapping application visualizing road networks and POIs for cities wor
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/john-boulanger-42a706279/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:john03yyc@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/JohnBoulanger)
+</document_content>
